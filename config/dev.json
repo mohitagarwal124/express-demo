@@ -1,0 +1,11 @@
+{
+    "PORT": 8000,
+    "dbSetting": {
+        "sql": {
+         "host": "mysql5.gear.host",
+         "user": "expressdb",
+         "password": "Fl2c3p-Db!lO",
+         "database": "expressdb"
+        }
+    }
+}
